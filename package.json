@@ -1,0 +1,12 @@
+{
+  "name": "csv-converter",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "json2csv": "^5.0.7"
+  }
+}
